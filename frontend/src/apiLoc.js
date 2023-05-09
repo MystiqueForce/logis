@@ -1,1 +1,1 @@
-export const apiHost = 'http://localhost:4545'
+export const apiHost = 'https://logistics-lovat.vercel.app:4545'
